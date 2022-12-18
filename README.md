@@ -7,4 +7,4 @@
 ![Mer BD](/mer.png)
 
 ### Regra de Negócio
-![Regra BD](/FeRN.png.png)
+![Regra BD](FeRN.png.png)
